@@ -1,8 +1,0 @@
-{
-  "paimonSpeedRtpcKey": {
-    "text": "Param_walkSpeed"
-  },
-  "vehicleCollisionRtpc": {
-    "text": "Param_boatImpulseSpeed"
-  }
-}
